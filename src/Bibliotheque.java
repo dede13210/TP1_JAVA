@@ -28,4 +28,11 @@ public class Bibliotheque {
         }
     }
 
+    public String getNom() {
+        return nom;
+    }
+
+    public ArrayList<Livre> getListLivre() {
+        return listLivre;
+    }
 }
