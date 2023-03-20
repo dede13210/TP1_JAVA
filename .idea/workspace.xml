@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="883867ed-f9ac-45f1-ac62-13b358389724" name="Changes" comment="question 3 done">
-      <change afterPath="$PROJECT_DIR$/src/Saga.java" afterDir="false" />
+    <list default="true" id="883867ed-f9ac-45f1-ac62-13b358389724" name="Changes" comment="question 4 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bibliotheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bibliotheque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JeuDeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JeuDeTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679296196203</updated>
-      <workItem from="1679296197435" duration="6774000" />
+      <workItem from="1679296197435" duration="6876000" />
+      <workItem from="1679303958502" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1679296234576</created>
@@ -60,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679301622009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="question 4 done">
+      <created>1679303825720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679303825720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +78,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="question 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 3 done" />
+    <MESSAGE value="question 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 4 done" />
   </component>
 </project>

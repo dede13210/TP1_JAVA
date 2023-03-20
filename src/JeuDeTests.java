@@ -29,7 +29,12 @@ public class JeuDeTests {
             System.out.println("le livre existe");
         }
          */
+        /*test3
+        System.out.println(aziz.toString());
+        */
+        /*test4
         System.out.println(saga.toString());
+         */
 
     }
 
